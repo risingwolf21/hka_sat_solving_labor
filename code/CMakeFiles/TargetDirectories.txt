@@ -1,0 +1,3 @@
+/workspaces/hka_sat_solving_labor/code/CMakeFiles/rebuild_cache.dir
+/workspaces/hka_sat_solving_labor/code/CMakeFiles/edit_cache.dir
+/workspaces/hka_sat_solving_labor/code/CMakeFiles/hka_infm_sat_sudoku.dir
