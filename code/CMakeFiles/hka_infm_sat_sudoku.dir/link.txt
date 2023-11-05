@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/hka_infm_sat_sudoku.dir/main.cpp.o -o hka_infm_sat_sudoku 
